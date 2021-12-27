@@ -7,5 +7,5 @@ Stacy has 53 marbles. She places them in three piles, with an odd number of marb
 ### Solution: 
 Able to address ~~only 53~~ various user-speficied odd numbers of total marbles.  
 Calculate the answer using: 
-1. a one-liner solution and 
+1. a one-liner formula and 
 2. a more elaborated counter 
